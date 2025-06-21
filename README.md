@@ -1,0 +1,2 @@
+# sapcmty-bot
+moderator-bot
